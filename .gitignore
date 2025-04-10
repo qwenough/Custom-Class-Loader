@@ -1,0 +1,50 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Build output
+target/
+build/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Environment
+.env
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Windows ###
+Thumbs.db
